@@ -26,8 +26,10 @@ goofing around with react native
     
 ## refresh code
 
+```
     # android
     # Press R, R
     
     # ios
     # Press ⌘R
+```

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<false/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>AABk1</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>6</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>AppleMusicUsageDescription? How about AppleMusicUsageDescription!</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>BluetoothPeripheralUsageDescription? How about BluetoothPeripheralUsageDescription!</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>CalendarsUsageDescription? How about CalendarsUsageDescription!</string>
+	<key>NSCameraUsageDescription</key>
+	<string>CameraUsageDescription? How about CameraUsageDescription!</string>
+	<key>NSContactsUsageDescription</key>
+	<string>ContactsUsageDescription? How about ContactsUsageDescription!</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>HealthShareUsageDescription? How about HealthShareUsageDescription!</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>HealthUpdateUsageDescription? How about HealthUpdateUsageDescription!</string>
+	<key>NSHomeKitUsageDescription</key>
+	<string>HomeKitUsageDescription? How about HomeKitUsageDescription!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>LocationAlwaysUsageDescription? How about LocationAlwaysUsageDescription!</string>
+	<key>NSLocationUsageDescription</key>
+	<string>LocationUsageDescription? How about LocationUsageDescription!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>LocationWhenInUseUsageDescription? How about LocationWhenInUseUsageDescription!</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>MicrophoneUsageDescription? How about MicrophoneUsageDescription!</string>
+	<key>NSMotionUsageDescription</key>
+	<string>MotionUsageDescription? How about MotionUsageDescription!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>PhotoLibraryUsageDescription? How about PhotoLibraryUsageDescription!</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>RemindersUsageDescription? How about RemindersUsageDescription!</string>
+	<key>NSSiriUsageDescription</key>
+	<string>SiriUsageDescription? How about SiriUsageDescription!</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>SpeechRecognitionUsageDescription? How about SpeechRecognitionUsageDescription!</string>
+	<key>NSVideoSubscriberAccountUsageDescription</key>
+	<string>VideoSubscriberAccountUsageDescription? How about VideoSubscriberAccountUsageDescription!</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string></string>
+</dict>
+</plist>

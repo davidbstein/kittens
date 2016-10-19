@@ -8,11 +8,7 @@ import {
 
 
 class main extends Component {
-  info(){
-    return ""+ KittenTest
-  }
   render() {
-    // return <View><Text>{this.info()}</Text></View>
     return <Kittens/>
   }
 }
